@@ -1,6 +1,6 @@
 # Simple file storage for Libre Solar device information
 
-This repository is deployed to [files.libre.solar](https://files.libre.solar) after each push.
+The folder `files` of this repository is deployed to [files.libre.solar](https://files.libre.solar) after each push.
 
 The information provided by ThingSet is not sufficient to create a nice user interface, so it should be enhanced with extra information. This sort of extra information will not be stored on the device, but on a file server, which can also store the device manual, firmware upgrades, etc.
 
